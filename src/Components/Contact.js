@@ -34,7 +34,7 @@ export default function Contact() {
       <section className="footer">
         <div className="share">
           <a href="#" className="btn">
-            <i className="fas fa-youtube" />
+            <i className="fab fa-youtube" />
           </a>
           <a href="#" className="btn">
             <i className="fab fa-facebook-f" />

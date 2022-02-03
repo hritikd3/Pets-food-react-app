@@ -11,7 +11,7 @@ export default function App() {
   return (
     <div>
       <Navbar />
-   
+
       <Header />
       <Category />
       <Featured />
